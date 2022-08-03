@@ -1,0 +1,12 @@
+E:\Program Files (x86)\Ccc\1projekti\proj2\proj2\bin\Debug\proj2.exe.config
+E:\Program Files (x86)\Ccc\1projekti\proj2\proj2\bin\Debug\proj2.exe
+E:\Program Files (x86)\Ccc\1projekti\proj2\proj2\bin\Debug\proj2.pdb
+E:\Program Files (x86)\Ccc\1projekti\proj2\proj2\obj\Debug\proj2.Form1.resources
+E:\Program Files (x86)\Ccc\1projekti\proj2\proj2\obj\Debug\proj2.Properties.Resources.resources
+E:\Program Files (x86)\Ccc\1projekti\proj2\proj2\obj\Debug\proj2.csproj.GenerateResource.cache
+E:\Program Files (x86)\Ccc\1projekti\proj2\proj2\obj\Debug\proj2.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\Ccc\1projekti\proj2\proj2\obj\Debug\proj2.exe
+E:\Program Files (x86)\Ccc\1projekti\proj2\proj2\obj\Debug\proj2.pdb
+E:\Program Files (x86)\Ccc\1projekti\proj2\proj2\obj\Debug\proj2.FProiz.resources
+E:\Program Files (x86)\Ccc\1projekti\proj2\proj2\obj\Debug\proj2.FStati.resources
+E:\Program Files (x86)\Ccc\1projekti\proj2\proj2\obj\Debug\proj2.csproj.AssemblyReference.cache
